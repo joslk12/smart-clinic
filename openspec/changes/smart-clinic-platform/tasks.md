@@ -2,12 +2,12 @@
 
 ## 1. Project Setup & Infrastructure
 
-- [ ] 1.1 Initialize Laravel API project and verify it boots (`php artisan --version`, server runs)
-- [ ] 1.2 Install backend dependencies (Sanctum, Spatie Permission, Socialite, Reverb/broadcasting) and verify they autoload
-- [ ] 1.3 Initialize Vue 3 + Vite + TypeScript SPA and verify `npm run dev` starts cleanly
-- [ ] 1.4 Configure CORS, API base URL, and env between Laravel and the SPA; verify an API call from the SPA succeeds
-- [ ] 1.5 Set up database, environment, and migrations structure; verify migrations run
-- [ ] 1.6 Create base models, traits, and service providers; verify models load
+- [x] 1.1 Initialize Laravel API project and verify it boots (`php artisan --version`, server runs)
+- [x] 1.2 Install backend dependencies (Sanctum, Spatie Permission, Socialite, Reverb/broadcasting) and verify they autoload
+- [x] 1.3 Initialize Vue 3 + Vite + TypeScript SPA and verify `npm run dev` starts cleanly
+- [x] 1.4 Configure CORS, API base URL, and env between Laravel and the SPA; verify an API call from the SPA succeeds
+- [x] 1.5 Set up database, environment, and migrations structure; verify migrations run
+- [x] 1.6 Create base models, traits, and service providers; verify models load
 
 ## 2. Module Configuration System (build first)
 
